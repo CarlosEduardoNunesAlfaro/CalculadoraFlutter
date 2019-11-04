@@ -1,2 +1,2 @@
 # CalculadoraFlutter
-Calculadora feira em flutter
+Calculadora feita em flutter
